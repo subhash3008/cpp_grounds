@@ -98,4 +98,7 @@
     <File Name="constants.h"/>
     <File Name="main.cpp"/>
   </VirtualDirectory>
+  <Dependencies Name="Debug">
+    <Project Name="even_odd"/>
+  </Dependencies>
 </CodeLite_Project>
