@@ -35,3 +35,6 @@
 cpp.workspace
 Makefile
 .codelite
+
+# Debug
+Debug
