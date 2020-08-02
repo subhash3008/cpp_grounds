@@ -1,0 +1,14 @@
+﻿2020-08-01 22:40:42.766 DEBUG [7503] [main@22] main() called
+2020-08-01 22:40:42.766 DEBUG [7503] [getInteger@5] getINTEGER() called
+2020-08-01 22:40:46.505 DEBUG [7503] [getInteger@5] getINTEGER() called
+2020-08-01 22:40:48.773 DEBUG [7503] [multiply@8] multiply() called
+2020-08-01 22:42:33.555 DEBUG [7575] [main@22] main() called
+2020-08-01 22:42:33.555 DEBUG [7575] [getInteger@5] getINTEGER() called
+2020-08-01 22:42:36.621 DEBUG [7575] [getInteger@5] getINTEGER() called
+2020-08-01 22:42:37.806 DEBUG [7575] [multiply@8] multiply() called
+2020-08-02 09:15:55.236 DEBUG [3252] [main@19] main() called
+2020-08-02 09:15:55.267 DEBUG [3252] [getDouble@13] getDouble() called
+2020-08-02 09:15:59.151 DEBUG [3252] [getDouble@13] getDouble() called
+2020-08-02 09:16:40.306 DEBUG [3324] [main@19] main() called
+2020-08-02 09:16:40.306 DEBUG [3324] [getDouble@13] getDouble() called
+2020-08-02 09:16:42.467 DEBUG [3324] [getDouble@13] getDouble() called
