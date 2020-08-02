@@ -38,3 +38,6 @@ Makefile
 
 # Debug
 Debug
+*.mk
+*.project
+*.txt
